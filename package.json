@@ -1,0 +1,23 @@
+{
+  "name": "gerador-pdf-boletim-horario",
+  "version": "1.0.0",
+  "description": "Gerador de pdf horário ou bolteim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitor-risso/gerador-pdf-boletim-horario.git"
+  },
+  "author": "vitor-risso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitor-risso/gerador-pdf-boletim-horario/issues"
+  },
+  "homepage": "https://github.com/vitor-risso/gerador-pdf-boletim-horario#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^7.0.4"
+  }
+}
